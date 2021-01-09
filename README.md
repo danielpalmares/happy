@@ -33,11 +33,15 @@ Happy is an application that connects people to orphanages for making many child
 
 Project completely done! :boom:
 
+---
+
 ## Pre-requirements
 
 Before getting started, you will need to have installed in your machine these tools: 
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Besides that, it is a good idea to have a nice text editor like [VSCode](https://code.visualstudio.com/)
+
+---
 
 ## Instructions
 
@@ -82,6 +86,8 @@ $ npm run start
 
 ```
 
+---
+
 ## Technologies
 
 These tools were used in the project:
@@ -89,6 +95,8 @@ These tools were used in the project:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+---
 
 ## License
 
