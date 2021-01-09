@@ -84,7 +84,7 @@ $ npm run start
 
 ## Technologies
 
-The next tools were used in the project:
+These tools were used in the project:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
