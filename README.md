@@ -44,10 +44,10 @@ Besides that, it is a good idea to have a nice text editor like [VSCode](https:/
 ### Running Back End (server)
 
 ```bash
-# Clone this repository
+# Open the cmd/terminal and clone this repository
 $ git clone <https://github.com/danielpalmares/nlw3-happy>
 
-# Open the project folder in the cmd/terminal
+# Open the project folder 
 $ cd nlw3-happy
 
 # Go to the server folder
@@ -60,7 +60,6 @@ $ npm install
 $ npm run dev
 
 # The server will start at port:5555 - go to <http://localhost:5555>
-
 ```
 
 ### Running Front End (client)
@@ -78,8 +77,7 @@ $ npm install
 # Run the application in development mode
 $ npm run start
 
-# The server will start at live server
-
+# The server will start!
 ```
 
 ## Technologies
