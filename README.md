@@ -1,9 +1,8 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+  <img alt="Happy" title="Happy" src=".github/logo.svg" />
 </h1>
 
 <p align="center">
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#status">Status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pre-requirements">Pre-requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,9 +11,11 @@
   <a href="#license">License</a>
 </p>
 
-## About
+---
 
-Happy is an application that connects people to orphanages for making many children's day happier :heart:
+<p align="center">
+  Happy is an application that connects people to orphanages for making many children's day happier :heart:
+</p>
 
 ---
 
