@@ -37,12 +37,15 @@ Project completely done! ☄️
 ## Pre-requirements
 
 Before getting started, you will need to have installed in your machine these tools: 
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+
+- [Git](https://git-scm.com) 
+- [Node.js](https://nodejs.org/en/)
+
 Besides that, it is a good idea to have a nice text editor like [VSCode](https://code.visualstudio.com/)
 
 ## Instructions
 
-### Running Back End (server)
+### Running Back End (Server)
 
 ```bash
 # Open the cmd/terminal and clone this repository
@@ -63,7 +66,7 @@ $ npm run dev
 # The server will start at port:5555 - go to <http://localhost:5555>
 ```
 
-### Running Front End (client)
+### Running Front End (Client)
 
 ```bash
 # Open the project folder in the cmd/terminal
