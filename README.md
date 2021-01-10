@@ -32,7 +32,7 @@
 
 ## Status
 
-Project completely done! :boom:
+Project completely done! ☄️
 
 ## Pre-requirements
 
