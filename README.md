@@ -22,11 +22,8 @@
 ## Screenshots 
 
 ![Home page](https://github.com/danielpalmares/nlw3-happy/blob/main/.github/pagina-inicio.PNG)
-![Map page](https://github.com/danielpalmares/nlw3-happy/blob/main/.github/pagina-escolha.PNG)
-![Create page](https://github.com/danielpalmares/nlw3-happy/blob/main/.github/pagina-criacao.PNG)
-![Create page](https://github.com/danielpalmares/nlw3-happy/blob/main/.github/pagina-criacao-2.PNG)
-![Orphanage Page](https://github.com/danielpalmares/nlw3-happy/blob/main/.github/pagina-orfanato.PNG)
-![Orphanage Page](https://github.com/danielpalmares/nlw3-happy/blob/main/.github/pagina-orfanato-2.PNG)
+
+You can see more screenshots over here 👉 [Drive](https://drive.google.com/drive/folders/1YKr_jyNFofznJflA5WZ_bGkyXURXnggG?usp=sharing)
 
 ---
 
