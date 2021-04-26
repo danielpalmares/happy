@@ -29,7 +29,7 @@
 
 Project completely done! ☄️
 
-Without mobile responsivity.
+Without mobile responsivity
 
 ## Pre-requirements
 
