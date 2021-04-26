@@ -7,23 +7,21 @@
   <a href="#status">Status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pre-requirements">Pre-requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instructions">Instructions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tools">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
 
 ---
 
 <p align="center">
-  Happy is an application that connects people to orphanages for making many children's day happier :heart:
+  Happy is an application that connects people to orphanages for making many children's day happier 😄
 </p>
 
 ---
 
 ## Screenshots 
 
-![Home page](https://github.com/danielpalmares/nlw3-happy/blob/main/.github/pagina-inicio.PNG)
-
-You can see more screenshots over here 👉 [Drive](https://drive.google.com/drive/folders/1YKr_jyNFofznJflA5WZ_bGkyXURXnggG?usp=sharing)
+![Layout](https://github.com/danielpalmares/nlw3-happy/blob/main/.github/pagina-inicio.PNG)
 
 ---
 
@@ -31,14 +29,16 @@ You can see more screenshots over here 👉 [Drive](https://drive.google.com/dri
 
 Project completely done! ☄️
 
+Without mobile responsivity.
+
 ## Pre-requirements
 
-Before getting started, you will need to have installed in your machine these tools: 
+Before getting started, you'll need to have installed in your machine these tools: 
 
 - [Git](https://git-scm.com) 
-- [Node.js](https://nodejs.org/en/)
+- [Node JS](https://nodejs.org/en/)
 
-Besides that, it is a good idea to have a nice text editor like [VSCode](https://code.visualstudio.com/)
+Besides that, it's a good idea to have a nice text editor like [VSCode](https://code.visualstudio.com/)
 
 ## Instructions
 
@@ -46,10 +46,10 @@ Besides that, it is a good idea to have a nice text editor like [VSCode](https:/
 
 ```bash
 # Open the cmd/terminal and clone this repository
-$ git clone <https://github.com/danielpalmares/nlw3-happy>
+$ git clone <https://github.com/danielpalmares/happy>
 
 # Open the project folder 
-$ cd nlw3-happy
+$ cd happy
 
 # Go to the server folder
 $ cd backend
@@ -60,14 +60,14 @@ $ npm install
 # Run the application in development mode
 $ npm run dev
 
-# The server will start at port:5555 - go to <http://localhost:5555>
+# The server will start!
 ```
 
 ### Running Front End (Client)
 
 ```bash
 # Open the project folder in the cmd/terminal
-$ cd nlw3-happy
+$ cd happy
 
 # Go to the client folder
 $ cd web
@@ -81,12 +81,12 @@ $ npm run start
 # The server will start!
 ```
 
-## Technologies
+## Tools
 
-These technologies were used in the project:
+These tools were used in the project:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
+- [Node JS](https://nodejs.org/en/)
+- [React JS](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## License
