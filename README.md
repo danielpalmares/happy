@@ -60,7 +60,7 @@ $ npm install
 # Run the application in development mode
 $ npm run dev
 
-# The server will start!
+# The server will start
 ```
 
 ### Running Front End (Client)
@@ -78,7 +78,7 @@ $ npm install
 # Run the application in development mode
 $ npm run start
 
-# The server will start!
+# The server will start
 ```
 
 ## Tools
